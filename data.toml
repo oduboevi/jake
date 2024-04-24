@@ -9,7 +9,7 @@ base_url = "https://oduboevi.github.io/jake"
 
 [[sections]]
 title = "Contact"
-description = "Op meerdere manieren kun je contact met mij opnemen!"
+description = "Manieren om met mij in contact te komen:"
 direction = "column"
 item_style = "filed"
 
