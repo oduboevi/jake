@@ -1,5 +1,5 @@
 name = "Oscar Vermolen"
-description = "Verbindend persoon"
+description = "Verbindend manager"
 keywords = "Oscar Vermolen, manager, informatietechnologie, it, gadgets, Amersfoort"
 image = "oscar_blurred_achtergrond.webp"
 theme = "dark"
@@ -11,7 +11,7 @@ base_url = "https://oduboevi.github.io/jake"
 title = "Contact"
 description = "Op meerdere manieren ben ik te benaderen"
 direction = "column"
-item_style = "outline"
+item_style = "filed"
 
 [[sections.items]]
 title = "LinkedIn"
