@@ -1,7 +1,7 @@
 name = "Oscar Vermolen"
-description = "Verbindend denker en doener."
+description = "Verbindend manager"
 keywords = "Oscar Vermolen, manager, informatietechnologie, it, gadgets, Amersfoort"
-image = "oscar_grijze_achtergrond.webp"
+image = "oscar_blurred_achtergrond.webp"
 theme = "dark"
 primary_color = "#0A66C2"
 text_align = "center"
@@ -37,4 +37,3 @@ url = "https://open.spotify.com/user/31wfob5veqrhrckmc5pogxaoiruy?si=tuOW8gqpTd6
 [[sections.items]]
 title = "Website"
 url = "https://www.oscarvermolen.nl"
-
