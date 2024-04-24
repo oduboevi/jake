@@ -17,9 +17,6 @@ item_style = "filed"
 title = "LinkedIn"
 url = "https://www.linkedin.com/in/vermolen/"
 [[sections.items]]
-title = "Email"
-url = "mailto:contact@oscarmail.eu"
-[[sections.items]]
 title = "Signal"
 url = "https://signal.me/#eu/wcb2D8I4NuQqLB-Mf7VXizbM8DblaDMHGeTJzWWtF4uffSX9N8BBqKu9lgBnwSeD"
 [[sections.items]]
@@ -35,5 +32,8 @@ url = "https://www.instagram.com/oscarvermolen/"
 title = "Spotify"
 url = "https://open.spotify.com/user/31wfob5veqrhrckmc5pogxaoiruy?si=tuOW8gqpTd6fHWLJ_0PW3w"
 [[sections.items]]
-title = "Website"
+title = "Email"
+url = "mailto:contact@oscarmail.eu"
+[[sections.items]]
+title = "Deze website"
 url = "https://www.oscarvermolen.nl"
