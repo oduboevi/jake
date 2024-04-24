@@ -1,6 +1,6 @@
 name = "Oscar Vermolen"
-description = "Verbindend manager"
-keywords = "Oscar Vermolen, manager, informatietechnologie, it, gadgets, Amersfoort"
+description = "Verbindend manager met een passie voor organisatieverandering/verbetering en digitale transformatie."
+keywords = "Oscar Vermolen, manager, informatietechnologie, it, ict, digitale transformatie, organisatieverandering, organisatieverbetering, gadgets, Amersfoort"
 image = "oscar_blurred_achtergrond.webp"
 theme = "dark"
 primary_color = "#0A66C2"
@@ -9,7 +9,7 @@ base_url = "https://oduboevi.github.io/jake"
 
 [[sections]]
 title = "Contact"
-description = "Manieren om met mij in contact te komen:"
+description = "Neem contact met mij op via:"
 direction = "column"
 item_style = "filed"
 
