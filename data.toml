@@ -15,7 +15,6 @@ item_style = "filed"
 
 [[sections.items]]
 title = "LinkedIn"
-description = "Business bio & contact"
 url = "https://www.linkedin.com/in/vermolen/"
 [[sections.items]]
 title = "Signal"
