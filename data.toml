@@ -24,10 +24,7 @@ title = "Telegram"
 url = "https://t.me/oscarvermolen"
 [[sections.items]]
 title = "Mastodon"
-url = "https://mastodon.social/@vermolen"
-[[sections.items]]
-title = "Instagram"
-url = "https://www.instagram.com/oscarvermolen/"
+url = "https://mastodon.nl/@molenbaas"
 [[sections.items]]
 title = "Spotify"
 url = "https://open.spotify.com/user/31wfob5veqrhrckmc5pogxaoiruy?si=tuOW8gqpTd6fHWLJ_0PW3w"
