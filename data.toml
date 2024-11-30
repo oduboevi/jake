@@ -28,7 +28,6 @@ url = "https://mastodon.nl/@molenbaas"
 [[sections.items]]
 title = "Bluesky"
 url = "https://bsky.app/profile/molenbaas.bsky.social"
-rel = "me"
 [[sections.items]]
 title = "Spotify"
 url = "https://open.spotify.com/user/31wfob5veqrhrckmc5pogxaoiruy?si=tuOW8gqpTd6fHWLJ_0PW3w"
