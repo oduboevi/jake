@@ -31,6 +31,4 @@ url = "https://bsky.app/profile/molenbaas.bsky.social"
 [[sections.items]]
 title = "Spotify"
 url = "https://open.spotify.com/user/31wfob5veqrhrckmc5pogxaoiruy?si=tuOW8gqpTd6fHWLJ_0PW3w"
-[[sections.items]]
-title = "Email"
-url = "mailto:contact@oscarmail.eu"
+
